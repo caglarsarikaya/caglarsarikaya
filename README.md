@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Caglar</h1>
 <h3 align="center">I am a curious developer</h3>
 
-<p align="left">
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=caglarsarikaya&label=Profile%20views&color=0e75b6&style=flat"
     alt="caglarsarikaya"
   />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
       src="https://github-profile-trophy.vercel.app/?username=caglarsarikaya&theme=dracula&column=8&row=1"
@@ -16,18 +16,18 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on ecommerce project based on nopCommerce
-**mazaka-ecommerce** - 🌱 I’m currently learning **C#, DotNet, Ef Core, SQL and
-JavaScript** - 📝 I regularly write articles on
-[https://caglarcansarikaya.medium.com](https://caglarcansarikaya.medium.com) -
-💬 Ask me about **C#, DotNet, Ef Core, SQL** - 📫 How to reach me
-**caglarcansarikaya@hotmail.com** - ⚡ Fun fact **I am feeding plants, I like to
-gym** ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+    - 🔭 I’m currently working on ecommerce project based on nopCommerce **mazaka-ecommerce** 
+    - 🌱 I’m currently learning **C#, DotNet, Ef Core, SQL and JavaScript** 
+    - 📝 I regularly write articles on [https://caglarcansarikaya.medium.com](https://caglarcansarikaya.medium.com) 
+    - 💬 Ask me about **C#, DotNet, Ef Core, SQL** 
+    - 📫 How to reach me **caglarcansarikaya@hotmail.com** 
+    - ⚡ Fun fact **I am feeding plants, I like to gym** 
+
+
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://linkedin.com/in/caglarcansarikaya" target="blank"
     ><img
       align="center"
@@ -70,9 +70,9 @@ gym** ### Blogs posts
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<h4 align="left">Programming Languages</h4>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<h4 align="center">Programming Languages</h4>
+<p align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
@@ -95,8 +95,8 @@ gym** ### Blogs posts
   </a>
 </p>
 
-<h4 align="left">Framework</h4>
-<p align="left">
+<h4 align="center">Framework</h4>
+<p align="center">
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
@@ -116,8 +116,8 @@ gym** ### Blogs posts
   </a>
 </p>
 
-<h4 align="left">Database</h4>
-<p align="left">
+<h4 align="center">Database</h4>
+<p align="center">
   <a
     href="https://www.microsoft.com/en-us/sql-server"
     target="_blank"
@@ -150,8 +150,8 @@ gym** ### Blogs posts
   </a>
 </p>
 
-<h4 align="left">Frontend Development</h4>
-<p align="left">
+<h4 align="center">Frontend Development</h4>
+<p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img
       src="https://angular.io/assets/images/logos/angular/angular.svg"
@@ -178,8 +178,8 @@ gym** ### Blogs posts
   </a>
 </p>
 
-<h4 align="left">Technologies</h4>
-<p align="left">
+<h4 align="center">Technologies</h4>
+<p align="center">
   <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
@@ -190,8 +190,8 @@ gym** ### Blogs posts
   </a>
 </p>
 
-<h4 align="left">Devops</h4>
-<p align="left">
+<h4 align="center">Devops</h4>
+<p align="center">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
@@ -222,7 +222,7 @@ gym** ### Blogs posts
 
 <p>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=caglarsarikaya&show_icons=true&locale=en&layout=compact"
     alt="caglarsarikaya"
   />
