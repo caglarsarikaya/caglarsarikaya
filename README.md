@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Caglar</h1>
 
+<div align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/cb51df18d2c0549efcf3591909a8dca2d2e6cbd602b6e04a88f46e93f4756617/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4335684c374f535779414346572f67697068792e6769663f6369643d373930623736313136646236326332353361386536326330636639303862383836363665663166356361376333613363267269643d67697068792e6769662663743d67"><img src="https://media0.giphy.com/media/jI2W3nVk1DctkB9zI9/giphy.gif?cid=790b7611e0b1998432ba0feffbdf0d6381f1d6b9165c1c65&rid=giphy.gif&ct=g" width="280" height="230" data-canonical-src="https://media4.giphy.com/media/C5hL7OSWyACFW/giphy.gif?cid=790b76116db62c253a8e62c0cf908b88666ef1f5ca7c3a3c&amp;rid=giphy.gif&amp;ct=g" style="max-width: 100%;"></a> </div>
+
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=caglarsarikaya&label=Profile%20views&color=0e75b6&style=flat"
