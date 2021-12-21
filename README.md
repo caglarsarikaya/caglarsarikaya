@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on ecommerce project based on nopCommerce **mazaka-ecommerce**
 
-- 🌱 I’m currently learning **C#, DotNet, Ef Core, SQL and JavaScript**
+- 🌱 I’m currently playing with **C#, DotNet, Ef Core, SQL and JavaScript**
 
 - 📝 I regularly write articles on [https://caglarcansarikaya.medium.com](https://caglarcansarikaya.medium.com)
 
