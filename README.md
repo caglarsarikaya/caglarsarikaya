@@ -15,7 +15,7 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on ecommerce project based on nopCommerce **mazaka-ecommerce**
+- 🔭 I’m currently working on ecommerce project based on nopCommerce
 
 - 🌱 I’m currently playing with **C#, DotNet, Ef Core, SQL and JavaScript**
 
