@@ -16,13 +16,17 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on ecommerce project based on nopCommerce
-**mazaka-ecommerce** - 🌱 I’m currently learning **C#, DotNet, Ef Core, SQL and
-JavaScript** - 📝 I regularly write articles on
-[https://caglarcansarikaya.medium.com](https://caglarcansarikaya.medium.com) -
-💬 Ask me about **C#, DotNet, Ef Core, SQL** - 📫 How to reach me
-**caglarcansarikaya@hotmail.com** - ⚡ Fun fact **I am feeding plants, I like to
-gym**
+- 🔭 I’m currently working on ecommerce project based on nopCommerce **mazaka-ecommerce**
+
+- 🌱 I’m currently learning **C#, DotNet, Ef Core, SQL and JavaScript**
+
+- 📝 I regularly write articles on [https://caglarcansarikaya.medium.com](https://caglarcansarikaya.medium.com)
+
+- 💬 Ask me about **C#, DotNet, Ef Core, SQL**
+
+- 📫 How to reach me **caglarcansarikaya@hotmail.com**
+
+- ⚡ Fun fact **I am feeding plants, I like to gym**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -219,7 +223,7 @@ gym**
 </p>
 
 <h4 align="center">I would like to learn</h4>
-<p align="center">
+ 
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg"
