@@ -18,12 +18,17 @@
 
 
 
-    - 🔭 I’m currently working on ecommerce project based on nopCommerce
-    - 🌱 I’m currently learning **C#, DotNet, Ef Core, SQL and JavaScript** 
-    - 📝 I regularly write articles on [https://caglarcansarikaya.medium.com](https://caglarcansarikaya.medium.com) 
-    - 💬 Ask me about **C#, DotNet, Ef Core, SQL** 
-    - 📫 How to reach me <strong><a href="mailto:caglarcansarikaya@hotmail.com">caglarcansarikaya@hotmail.com</a></strong> 
-    - ⚡ Fun fact **I am feeding plants, I like to gym** 
+- 🔭 I’m currently working on ecommerce project based on nopCommerce **mazaka-ecommerce**
+
+- 🌱 I’m currently learning **C#, DotNet, Ef Core, SQL and JavaScript**
+
+- 📝 I regularly write articles on [https://caglarcansarikaya.medium.com](https://caglarcansarikaya.medium.com)
+
+- 💬 Ask me about **C#, DotNet, Ef Core, SQL**
+
+- 📫 How to reach me **caglarcansarikaya@hotmail.com**
+
+- ⚡ Fun fact **I am feeding plants, I like to gym**
 
 
 
