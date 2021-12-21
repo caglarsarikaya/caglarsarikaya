@@ -11,7 +11,7 @@
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=caglarsarikaya&theme=dracula&title=rank=S,AAA,Stars,Followers"
+      src="https://github-profile-trophy.vercel.app/?username=caglarsarikaya&theme=dracula&title=Stars,Followers,Repositories,Rank"
       alt="caglarsarikaya"
   /></a>
 </p>
