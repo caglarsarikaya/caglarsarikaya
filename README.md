@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Caglar</h1>
-<h3 align="center">I am a curious developer</h3>
 
 <p align="center">
   <img
