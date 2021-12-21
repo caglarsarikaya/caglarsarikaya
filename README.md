@@ -16,21 +16,13 @@
   /></a>
 </p>
 
-
-
-- 🔭 I’m currently working on ecommerce project based on nopCommerce **mazaka-ecommerce**
-
-- 🌱 I’m currently learning **C#, DotNet, Ef Core, SQL and JavaScript**
-
-- 📝 I regularly write articles on [https://caglarcansarikaya.medium.com](https://caglarcansarikaya.medium.com)
-
-- 💬 Ask me about **C#, DotNet, Ef Core, SQL**
-
-- 📫 How to reach me **caglarcansarikaya@hotmail.com**
-
-- ⚡ Fun fact **I am feeding plants, I like to gym**
-
-
+- 🔭 I’m currently working on ecommerce project based on nopCommerce
+**mazaka-ecommerce** - 🌱 I’m currently learning **C#, DotNet, Ef Core, SQL and
+JavaScript** - 📝 I regularly write articles on
+[https://caglarcansarikaya.medium.com](https://caglarcansarikaya.medium.com) -
+💬 Ask me about **C#, DotNet, Ef Core, SQL** - 📫 How to reach me
+**caglarcansarikaya@hotmail.com** - ⚡ Fun fact **I am feeding plants, I like to
+gym**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -220,6 +212,115 @@
     <img
       src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
       alt="kubernetes"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
+
+<h4 align="center">I would like to learn</h4>
+ 
+  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg"
+      alt="cassandra"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg"
+      alt="couchdb"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"
+      alt="elasticsearch"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://golang.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+      alt="go"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://grafana.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"
+      alt="grafana"
+      width="40"
+      height="40"
+    />
+  </a>
+ 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="java"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
+      alt="jenkins"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"
+      alt="kafka"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"
+      alt="kibana"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      alt="linux"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
+      alt="pandas"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
+      alt="tensorflow"
       width="40"
       height="40"
     />
