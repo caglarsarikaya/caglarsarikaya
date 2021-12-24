@@ -103,7 +103,7 @@
     </tr>
   
    <tr>
-        <th>Programming Languages:</th>
+        <th>Databases:</th>
         <td>
             <a
     href="https://www.microsoft.com/en-us/sql-server"
