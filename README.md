@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Çağlar Can Sarıkaya
+# 👋 Hi, I'm Caglar
 
 I'm a software developer who believes that clean code and strong communication are essential to successful projects. With solid experience in .NET and full-stack development, I excel in technical challenges and maintain productivity under high-pressure situations. My passion lies in creating effective solutions while enhancing team collaboration.
 
