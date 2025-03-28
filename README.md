@@ -21,7 +21,25 @@ I'm a software developer who believes that clean code and strong communication a
 
 ---
 
-## 🌱 Ongoing Interests
+## 🎮 Portfolio
+
+### Games
+- [Tightrope Walker](https://caglarsarikaya.github.io/TightropeWalker/) - A challenging balance game where players traverse between mountain peaks
+  - Built with HTML5, CSS3, and JavaScript
+  - Features dynamic wind physics and responsive controls
+  - [View on GitHub](https://github.com/caglarsarikaya/TightropeWalker)
+
+### Coming Soon
+- More projects will be added here as they are completed
+- Each project will include:
+  - Live demo link
+  - GitHub repository
+  - Technologies used
+  - Brief description
+
+---
+
+## �� Ongoing Interests
 
 - **Research Areas:** AI Theory, Machine Learning, Natural Language Processing
 - **Projects:** IoT solutions, smart home systems, and financial forecasting through AI models
