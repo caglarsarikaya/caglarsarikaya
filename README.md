@@ -31,10 +31,10 @@ I build **scalable**, **high-performance** software using **.NET** and modern fu
 
 **Languages:** C#, T-SQL, JavaScript, Python  
 **Backend:** .NET 8, ASP.NET Core, Web API, SignalR, Hangfire, Quartz.NET  
-**Frontend:** Razor Pages, Blazor, React, AngularJS, Vue  
+**Frontend:** Razor Pages, Blazor, React, Angular, Vue  
 **Databases:** SQL Server, PostgreSQL, MySQL, MongoDB, NoSQL  
 **Tools & Platforms:** Docker, Redis, Kafka, Elasticsearch  
-**Dev Practices:** Clean Code, SOLID Principles, CI/CD, Git
+**Dev Practices:** Clean Code, SOLID Principles, CI/CD, Git, Azure, Aws
 
 ---
 
