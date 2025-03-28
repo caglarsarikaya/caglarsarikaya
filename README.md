@@ -41,9 +41,13 @@ I build **scalable**, **high-performance** software using **.NET** and modern fu
 ## 🎮 Side Projects
 
 ### [Tightrope Walker](https://caglarsarikaya.github.io/TightropeWalker/)  
-A mountain-peak balance game built with HTML5, CSS3, and JavaScript  
-- Implements wind physics and responsive player control  
-- Designed for browser play  
+A browser-based 3D game where players balance across a tightrope suspended between mountain peaks.  
+Built using modern web technologies for performance and realism.
+
+- Developed with **Three.js** and **postprocessing** for realistic 3D rendering and effects  
+- Powered by **Vite** for lightning-fast development and build process  
+- Features **dynamic wind physics**, smooth camera transitions, and immersive scene design  
+- Designed to run directly in the browser—no installation needed  
 - [View Source on GitHub](https://github.com/caglarsarikaya/TightropeWalker)
 
 ---
