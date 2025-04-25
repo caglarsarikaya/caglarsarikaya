@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Caglar Can Sarikaya — .NET Developer | Full-Stack Developer | AI Enthusiast
+# 👋 Hi, I’m Caglar Can Sarikaya — Full Stack Developer | .NET Specialist
 
 I build **scalable**, **high-performance** software using **.NET** and modern full-stack technologies. I thrive in fast-paced environments and take pride in writing **clean, maintainable code** that solves real problems.
 
