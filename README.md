@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Caglar Sarikaya — Software Engineer
+# 👋 Hi
 
 I build **scalable**, **high-performance** software using modern full-stack technologies. I thrive in fast-paced environments and take pride in writing **clean, maintainable code** that solves real problems.
 
